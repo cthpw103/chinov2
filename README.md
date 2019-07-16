@@ -1,2 +1,2 @@
-# chinov01
-Chino v0.1 leak
+# Chino
+Chino, a really fucking awful (but sexy loli) bot!
